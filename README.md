@@ -1,1 +1,1 @@
-My edited/rebranded readme
+My edited readme
